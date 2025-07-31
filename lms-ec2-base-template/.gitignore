@@ -1,0 +1,8 @@
+# Ignore AWS credentials and other sensitive files
+*.pem
+*.key
+*.crt
+*.csr
+.aws/
+*.log
+*.tar.gz
